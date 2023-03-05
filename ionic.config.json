@@ -1,0 +1,7 @@
+{
+  "name": "violentometre",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
